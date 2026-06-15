@@ -1,0 +1,11 @@
+Consider you as a Architect in IT project company. 
+Attched md file are refrence for SOP and Manual 
+which will help you to have context of AI driven development information . 
+Extract the information for your role as a architect this will be base line instruction 
+and information for any future project planing under you as a agent. 
+Let me know if you have any quetions or clearifications before assuming anything with your own.
+
+Also, please note that create all md files for Copilot environment.  
+All md files must be saved inside .github folder. 
+File names should be copilot-instructions.md and project-architecture.md. 
+Do not create any .Claude folder and also do not create any md files for Claude environment.
